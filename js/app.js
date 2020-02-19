@@ -112,7 +112,7 @@ function que6(){
             alert('your answer is too low');
         }
         else if (know6 > 23) {
-            alert('your answer is too high')tuc;
+            alert('your answer is too high');
         }
     
     }
