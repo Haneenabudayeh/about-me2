@@ -7,5 +7,5 @@ now the web page will show extra 2 questions to the user, the first one asking h
 for the second one he/she should guess one of my favourite flowers out of 6 trials.
 at the end a total mark of the right answers will be showen. 
 
-i was the driver to this code 
+i haneen was the driver to this code 
 and tsneem was the navegator.
